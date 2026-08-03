@@ -1,4 +1,4 @@
-[前往下载仓库](https://github.com/CyberZenTemple/ToolKit/AMiTuoFo.msi)
+[下载 AMiTuoFo.msi](https://raw.githubusercontent.com/CyberZenTemple/ToolKit/main/AMiTuoFo.msi)
 用阿弥陀佛，念赛博真经.
 
 在您的桌面悬浮一尊佛像。
