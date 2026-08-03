@@ -1,4 +1,4 @@
-下载：[下载](https://raw.githubusercontent.com/CyberZenTemple/ToolKit/
+下载：[!下载](https://github.com/CyberZenTemple/ToolKit)
 用阿弥陀佛，念赛博真经.
 
 在您的桌面悬浮一尊佛像。
