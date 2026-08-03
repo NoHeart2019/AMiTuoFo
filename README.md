@@ -1,4 +1,4 @@
-[下载 AMiTuoFo.msi](https://raw.githubusercontent.com/CyberZenTemple/ToolKit/main/AMiTuoFo.msi)
+国内加速：[高速下载](https://mirror.ghproxy.com/https://raw.githubusercontent.com/CyberZenTemple/ToolKit/main/AMiTuoFo.msi)
 用阿弥陀佛，念赛博真经.
 
 在您的桌面悬浮一尊佛像。
